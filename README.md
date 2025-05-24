@@ -36,8 +36,8 @@ O cache é invalidado sempre que um cliente é atualizado.
 1. Clone o repositório
 
    ```bash
-   git clone <url-do-repositorio>
-   cd client_api
+   git clone https://github.com/felipecongb/client-api-clean-architecture.git
+   cd client-api-clean-architecture
    ```
 
 2. Execute o projeto com Docker Compose
